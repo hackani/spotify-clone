@@ -343,3 +343,9 @@ body{
         margin-right: 5px;
     }
 }
+
+@media (max-width: 430px) {
+    .cardContainer{
+        justify-content: center;
+    }
+}
